@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f7f9fc"/>
+<circle cx="1090" cy="60" r="320" fill="#087f6b" opacity=".07"/>
+<circle cx="70" cy="620" r="220" fill="#315fba" opacity=".035"/>
+<text x="90" y="225" fill="#087f6b" font-family="Arial" font-size="25" font-weight="bold">NARESH.STUDIO</text>
+<text x="90" y="310" fill="#0d1728" font-family="Arial" font-size="62" font-weight="bold">Engineering ideas.</text>
+<text x="90" y="385" fill="#087f6b" font-family="Arial" font-size="62" font-weight="bold">Building what I learn.</text>
+<text x="90" y="455" fill="#68758a" font-family="Arial" font-size="24">AI • LLM • Cloud • Architecture • Projects • Experiments</text>
+</svg>
